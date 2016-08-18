@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=fileName
+comment1.target=void\ generate(java.lang.String)
+comment2.params=fileName
+comment2.target=void\ loadTable(java.lang.String)
+comment3.params=
+comment3.target=void\ requestStart()
+comment4.params=table\ row\ col
+comment4.target=void\ removeObject(char[][],\ int,\ int)
+comment5.params=table\ row\ col
+comment5.target=void\ erase(char[][],\ int,\ int)
+comment6.params=table
+comment6.target=void\ printTable(char[][])
+comment7.params=row\ col
+comment7.target=boolean\ checkBoundaries(int,\ int)
+numComments=8
